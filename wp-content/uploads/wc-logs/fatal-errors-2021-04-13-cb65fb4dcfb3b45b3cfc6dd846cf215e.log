@@ -1,0 +1,169 @@
+2021-04-13T01:14:41+00:00 CRITICAL Uncaught Error: Call to undefined function get_field() in C:\xampp\htdocs\doan-wordpress\wp-content\themes\savoy\woocommerce\single-product\related.php:47
+Stack trace:
+#0 C:\xampp\htdocs\doan-wordpress\wp-content\plugins\woocommerce\includes\wc-core-functions.php(345): include()
+#1 C:\xampp\htdocs\doan-wordpress\wp-content\plugins\woocommerce\includes\wc-template-functions.php(1973): wc_get_template('single-product/...', Array)
+#2 C:\xampp\htdocs\doan-wordpress\wp-content\plugins\woocommerce\includes\wc-template-functions.php(1936): woocommerce_related_products(Array)
+#3 C:\xampp\htdocs\doan-wordpress\wp-includes\class-wp-hook.php(292): woocommerce_output_related_products('')
+#4 C:\xampp\htdocs\doan-wordpress\wp-includes\class-wp-hook.php(316): WP_Hook->apply_filters(NULL, Array)
+#5 C:\xampp\htdocs\doan-wordpress\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#6 C:\xampp\htdocs\doan-wordpress\wp-content\themes\savoy\woocommerce\content-single-product.php(294): do_action('woocommerce_aft...')
+#7 C:\xam in C:\xampp\htdocs\doan-wordpress\wp-content\themes\savoy\woocommerce\single-product\related.php on line 47
+
+2021-04-13T01:15:12+00:00 CRITICAL Uncaught Error: Call to undefined function get_field() in C:\xampp\htdocs\doan-wordpress\wp-content\themes\savoy\woocommerce\single-product\related.php:47
+Stack trace:
+#0 C:\xampp\htdocs\doan-wordpress\wp-content\plugins\woocommerce\includes\wc-core-functions.php(345): include()
+#1 C:\xampp\htdocs\doan-wordpress\wp-content\plugins\woocommerce\includes\wc-template-functions.php(1973): wc_get_template('single-product/...', Array)
+#2 C:\xampp\htdocs\doan-wordpress\wp-content\plugins\woocommerce\includes\wc-template-functions.php(1936): woocommerce_related_products(Array)
+#3 C:\xampp\htdocs\doan-wordpress\wp-includes\class-wp-hook.php(292): woocommerce_output_related_products('')
+#4 C:\xampp\htdocs\doan-wordpress\wp-includes\class-wp-hook.php(316): WP_Hook->apply_filters(NULL, Array)
+#5 C:\xampp\htdocs\doan-wordpress\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#6 C:\xampp\htdocs\doan-wordpress\wp-content\themes\savoy\woocommerce\content-single-product.php(294): do_action('woocommerce_aft...')
+#7 C:\xam in C:\xampp\htdocs\doan-wordpress\wp-content\themes\savoy\woocommerce\single-product\related.php on line 47
+
+2021-04-13T01:15:39+00:00 CRITICAL Uncaught Error: Call to undefined function get_field() in C:\xampp\htdocs\doan-wordpress\wp-content\themes\savoy\woocommerce\single-product\related.php:47
+Stack trace:
+#0 C:\xampp\htdocs\doan-wordpress\wp-content\plugins\woocommerce\includes\wc-core-functions.php(345): include()
+#1 C:\xampp\htdocs\doan-wordpress\wp-content\plugins\woocommerce\includes\wc-template-functions.php(1973): wc_get_template('single-product/...', Array)
+#2 C:\xampp\htdocs\doan-wordpress\wp-content\plugins\woocommerce\includes\wc-template-functions.php(1936): woocommerce_related_products(Array)
+#3 C:\xampp\htdocs\doan-wordpress\wp-includes\class-wp-hook.php(292): woocommerce_output_related_products('')
+#4 C:\xampp\htdocs\doan-wordpress\wp-includes\class-wp-hook.php(316): WP_Hook->apply_filters(NULL, Array)
+#5 C:\xampp\htdocs\doan-wordpress\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#6 C:\xampp\htdocs\doan-wordpress\wp-content\themes\savoy\woocommerce\content-single-product.php(294): do_action('woocommerce_aft...')
+#7 C:\xam in C:\xampp\htdocs\doan-wordpress\wp-content\themes\savoy\woocommerce\single-product\related.php on line 47
+
+2021-04-13T01:15:48+00:00 CRITICAL Uncaught Error: Call to undefined function get_field() in C:\xampp\htdocs\doan-wordpress\wp-content\themes\savoy\woocommerce\single-product\related.php:47
+Stack trace:
+#0 C:\xampp\htdocs\doan-wordpress\wp-content\plugins\woocommerce\includes\wc-core-functions.php(345): include()
+#1 C:\xampp\htdocs\doan-wordpress\wp-content\plugins\woocommerce\includes\wc-template-functions.php(1973): wc_get_template('single-product/...', Array)
+#2 C:\xampp\htdocs\doan-wordpress\wp-content\plugins\woocommerce\includes\wc-template-functions.php(1936): woocommerce_related_products(Array)
+#3 C:\xampp\htdocs\doan-wordpress\wp-includes\class-wp-hook.php(292): woocommerce_output_related_products('')
+#4 C:\xampp\htdocs\doan-wordpress\wp-includes\class-wp-hook.php(316): WP_Hook->apply_filters(NULL, Array)
+#5 C:\xampp\htdocs\doan-wordpress\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#6 C:\xampp\htdocs\doan-wordpress\wp-content\themes\savoy\woocommerce\content-single-product.php(294): do_action('woocommerce_aft...')
+#7 C:\xam in C:\xampp\htdocs\doan-wordpress\wp-content\themes\savoy\woocommerce\single-product\related.php on line 47
+
+2021-04-13T01:15:55+00:00 CRITICAL Uncaught Error: Call to undefined function get_field() in C:\xampp\htdocs\doan-wordpress\wp-content\themes\savoy\woocommerce\single-product\related.php:47
+Stack trace:
+#0 C:\xampp\htdocs\doan-wordpress\wp-content\plugins\woocommerce\includes\wc-core-functions.php(345): include()
+#1 C:\xampp\htdocs\doan-wordpress\wp-content\plugins\woocommerce\includes\wc-template-functions.php(1973): wc_get_template('single-product/...', Array)
+#2 C:\xampp\htdocs\doan-wordpress\wp-content\plugins\woocommerce\includes\wc-template-functions.php(1936): woocommerce_related_products(Array)
+#3 C:\xampp\htdocs\doan-wordpress\wp-includes\class-wp-hook.php(292): woocommerce_output_related_products('')
+#4 C:\xampp\htdocs\doan-wordpress\wp-includes\class-wp-hook.php(316): WP_Hook->apply_filters(NULL, Array)
+#5 C:\xampp\htdocs\doan-wordpress\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#6 C:\xampp\htdocs\doan-wordpress\wp-content\themes\savoy\woocommerce\content-single-product.php(294): do_action('woocommerce_aft...')
+#7 C:\xam in C:\xampp\htdocs\doan-wordpress\wp-content\themes\savoy\woocommerce\single-product\related.php on line 47
+
+2021-04-13T01:28:04+00:00 CRITICAL Uncaught Error: Call to undefined function get_field() in C:\xampp\htdocs\doan-wordpress\wp-content\themes\savoy\woocommerce\single-product\related.php:47
+Stack trace:
+#0 C:\xampp\htdocs\doan-wordpress\wp-content\plugins\woocommerce\includes\wc-core-functions.php(345): include()
+#1 C:\xampp\htdocs\doan-wordpress\wp-content\plugins\woocommerce\includes\wc-template-functions.php(1973): wc_get_template('single-product/...', Array)
+#2 C:\xampp\htdocs\doan-wordpress\wp-content\plugins\woocommerce\includes\wc-template-functions.php(1936): woocommerce_related_products(Array)
+#3 C:\xampp\htdocs\doan-wordpress\wp-includes\class-wp-hook.php(292): woocommerce_output_related_products('')
+#4 C:\xampp\htdocs\doan-wordpress\wp-includes\class-wp-hook.php(316): WP_Hook->apply_filters(NULL, Array)
+#5 C:\xampp\htdocs\doan-wordpress\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#6 C:\xampp\htdocs\doan-wordpress\wp-content\themes\savoy\woocommerce\content-single-product.php(294): do_action('woocommerce_aft...')
+#7 C:\xam in C:\xampp\htdocs\doan-wordpress\wp-content\themes\savoy\woocommerce\single-product\related.php on line 47
+
+2021-04-13T01:28:07+00:00 CRITICAL Uncaught Error: Call to undefined function get_field() in C:\xampp\htdocs\doan-wordpress\wp-content\themes\savoy\woocommerce\single-product\related.php:47
+Stack trace:
+#0 C:\xampp\htdocs\doan-wordpress\wp-content\plugins\woocommerce\includes\wc-core-functions.php(345): include()
+#1 C:\xampp\htdocs\doan-wordpress\wp-content\plugins\woocommerce\includes\wc-template-functions.php(1973): wc_get_template('single-product/...', Array)
+#2 C:\xampp\htdocs\doan-wordpress\wp-content\plugins\woocommerce\includes\wc-template-functions.php(1936): woocommerce_related_products(Array)
+#3 C:\xampp\htdocs\doan-wordpress\wp-includes\class-wp-hook.php(292): woocommerce_output_related_products('')
+#4 C:\xampp\htdocs\doan-wordpress\wp-includes\class-wp-hook.php(316): WP_Hook->apply_filters(NULL, Array)
+#5 C:\xampp\htdocs\doan-wordpress\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#6 C:\xampp\htdocs\doan-wordpress\wp-content\themes\savoy\woocommerce\content-single-product.php(294): do_action('woocommerce_aft...')
+#7 C:\xam in C:\xampp\htdocs\doan-wordpress\wp-content\themes\savoy\woocommerce\single-product\related.php on line 47
+
+2021-04-13T01:28:09+00:00 CRITICAL Uncaught Error: Call to undefined function get_field() in C:\xampp\htdocs\doan-wordpress\wp-content\themes\savoy\woocommerce\single-product\related.php:47
+Stack trace:
+#0 C:\xampp\htdocs\doan-wordpress\wp-content\plugins\woocommerce\includes\wc-core-functions.php(345): include()
+#1 C:\xampp\htdocs\doan-wordpress\wp-content\plugins\woocommerce\includes\wc-template-functions.php(1973): wc_get_template('single-product/...', Array)
+#2 C:\xampp\htdocs\doan-wordpress\wp-content\plugins\woocommerce\includes\wc-template-functions.php(1936): woocommerce_related_products(Array)
+#3 C:\xampp\htdocs\doan-wordpress\wp-includes\class-wp-hook.php(292): woocommerce_output_related_products('')
+#4 C:\xampp\htdocs\doan-wordpress\wp-includes\class-wp-hook.php(316): WP_Hook->apply_filters(NULL, Array)
+#5 C:\xampp\htdocs\doan-wordpress\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#6 C:\xampp\htdocs\doan-wordpress\wp-content\themes\savoy\woocommerce\content-single-product.php(294): do_action('woocommerce_aft...')
+#7 C:\xam in C:\xampp\htdocs\doan-wordpress\wp-content\themes\savoy\woocommerce\single-product\related.php on line 47
+
+2021-04-13T04:51:40+00:00 CRITICAL Out of memory (allocated 18874368) (tried to allocate 20480 bytes) in C:\xampp\htdocs\doan-wordpress\wp-content\themes\savoy\includes\options\ReduxCore\inc\fields\typography\field_typography.php on line 1028
+
+2021-04-13T04:53:17+00:00 CRITICAL Uncaught Error: Call to undefined function get_field() in C:\xampp\htdocs\doan-wordpress\wp-content\themes\savoy\woocommerce\single-product\related.php:47
+Stack trace:
+#0 C:\xampp\htdocs\doan-wordpress\wp-content\plugins\woocommerce\includes\wc-core-functions.php(345): include()
+#1 C:\xampp\htdocs\doan-wordpress\wp-content\plugins\woocommerce\includes\wc-template-functions.php(1973): wc_get_template('single-product/...', Array)
+#2 C:\xampp\htdocs\doan-wordpress\wp-content\plugins\woocommerce\includes\wc-template-functions.php(1936): woocommerce_related_products(Array)
+#3 C:\xampp\htdocs\doan-wordpress\wp-includes\class-wp-hook.php(292): woocommerce_output_related_products('')
+#4 C:\xampp\htdocs\doan-wordpress\wp-includes\class-wp-hook.php(316): WP_Hook->apply_filters(NULL, Array)
+#5 C:\xampp\htdocs\doan-wordpress\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#6 C:\xampp\htdocs\doan-wordpress\wp-content\themes\savoy\woocommerce\content-single-product.php(294): do_action('woocommerce_aft...')
+#7 C:\xam in C:\xampp\htdocs\doan-wordpress\wp-content\themes\savoy\woocommerce\single-product\related.php on line 47
+
+2021-04-13T07:16:47+00:00 CRITICAL Uncaught Error: Call to undefined function get_field() in C:\xampp\htdocs\doan-wordpress\wp-content\themes\savoy\woocommerce\single-product\related.php:47
+Stack trace:
+#0 C:\xampp\htdocs\doan-wordpress\wp-content\plugins\woocommerce\includes\wc-core-functions.php(345): include()
+#1 C:\xampp\htdocs\doan-wordpress\wp-content\plugins\woocommerce\includes\wc-template-functions.php(1973): wc_get_template('single-product/...', Array)
+#2 C:\xampp\htdocs\doan-wordpress\wp-content\plugins\woocommerce\includes\wc-template-functions.php(1936): woocommerce_related_products(Array)
+#3 C:\xampp\htdocs\doan-wordpress\wp-includes\class-wp-hook.php(292): woocommerce_output_related_products('')
+#4 C:\xampp\htdocs\doan-wordpress\wp-includes\class-wp-hook.php(316): WP_Hook->apply_filters(NULL, Array)
+#5 C:\xampp\htdocs\doan-wordpress\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#6 C:\xampp\htdocs\doan-wordpress\wp-content\themes\savoy\woocommerce\content-single-product.php(294): do_action('woocommerce_aft...')
+#7 C:\xam in C:\xampp\htdocs\doan-wordpress\wp-content\themes\savoy\woocommerce\single-product\related.php on line 47
+
+2021-04-13T07:22:04+00:00 CRITICAL Uncaught Error: Call to undefined function get_field() in C:\xampp\htdocs\doan-wordpress\wp-content\themes\savoy\woocommerce\single-product\related.php:47
+Stack trace:
+#0 C:\xampp\htdocs\doan-wordpress\wp-content\plugins\woocommerce\includes\wc-core-functions.php(345): include()
+#1 C:\xampp\htdocs\doan-wordpress\wp-content\plugins\woocommerce\includes\wc-template-functions.php(1973): wc_get_template('single-product/...', Array)
+#2 C:\xampp\htdocs\doan-wordpress\wp-content\plugins\woocommerce\includes\wc-template-functions.php(1936): woocommerce_related_products(Array)
+#3 C:\xampp\htdocs\doan-wordpress\wp-includes\class-wp-hook.php(292): woocommerce_output_related_products('')
+#4 C:\xampp\htdocs\doan-wordpress\wp-includes\class-wp-hook.php(316): WP_Hook->apply_filters(NULL, Array)
+#5 C:\xampp\htdocs\doan-wordpress\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#6 C:\xampp\htdocs\doan-wordpress\wp-content\themes\savoy\woocommerce\content-single-product.php(294): do_action('woocommerce_aft...')
+#7 C:\xam in C:\xampp\htdocs\doan-wordpress\wp-content\themes\savoy\woocommerce\single-product\related.php on line 47
+
+2021-04-13T07:31:33+00:00 CRITICAL Uncaught Error: Call to undefined function get_field() in C:\xampp\htdocs\doan-wordpress\wp-content\themes\savoy\single.php:92
+Stack trace:
+#0 C:\xampp\htdocs\doan-wordpress\wp-includes\template-loader.php(106): include()
+#1 C:\xampp\htdocs\doan-wordpress\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\doan-wordpress\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\doan-wordpress\wp-content\themes\savoy\single.php on line 92
+
+2021-04-13T07:31:35+00:00 CRITICAL Uncaught Error: Call to undefined function get_field() in C:\xampp\htdocs\doan-wordpress\wp-content\themes\savoy\single.php:92
+Stack trace:
+#0 C:\xampp\htdocs\doan-wordpress\wp-includes\template-loader.php(106): include()
+#1 C:\xampp\htdocs\doan-wordpress\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\doan-wordpress\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\doan-wordpress\wp-content\themes\savoy\single.php on line 92
+
+2021-04-13T08:46:43+00:00 CRITICAL Uncaught Error: Call to undefined function get_field() in C:\xampp\htdocs\doan-wordpress\wp-content\themes\savoy-test\woocommerce\single-product\related.php:47
+Stack trace:
+#0 C:\xampp\htdocs\doan-wordpress\wp-content\plugins\woocommerce\includes\wc-core-functions.php(345): include()
+#1 C:\xampp\htdocs\doan-wordpress\wp-content\plugins\woocommerce\includes\wc-template-functions.php(1973): wc_get_template('single-product/...', Array)
+#2 C:\xampp\htdocs\doan-wordpress\wp-content\plugins\woocommerce\includes\wc-template-functions.php(1936): woocommerce_related_products(Array)
+#3 C:\xampp\htdocs\doan-wordpress\wp-includes\class-wp-hook.php(292): woocommerce_output_related_products('')
+#4 C:\xampp\htdocs\doan-wordpress\wp-includes\class-wp-hook.php(316): WP_Hook->apply_filters(NULL, Array)
+#5 C:\xampp\htdocs\doan-wordpress\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#6 C:\xampp\htdocs\doan-wordpress\wp-content\themes\savoy-test\woocommerce\content-single-product.php(294): do_action('woocommerce_aft...') in C:\xampp\htdocs\doan-wordpress\wp-content\themes\savoy-test\woocommerce\single-product\related.php on line 47
+
+2021-04-13T08:48:45+00:00 CRITICAL Uncaught Exception: Element must be mapped in system in C:\xampp\htdocs\doan-wordpress\wp-content\plugins\js_composer\include\classes\shortcodes\core\class-vc-shortcodes-manager.php:101
+Stack trace:
+#0 C:\xampp\htdocs\doan-wordpress\wp-content\plugins\js_composer\include\classes\shortcodes\core\class-vc-shortcodes-manager.php(135): Vc_Shortcodes_Manager->getElementClass('nm_banner')
+#1 C:\xampp\htdocs\doan-wordpress\wp-content\plugins\js_composer\include\classes\editors\class-vc-frontend-editor.php(704): Vc_Shortcodes_Manager->shortcodeClass()
+#2 C:\xampp\htdocs\doan-wordpress\wp-content\plugins\js_composer\include\classes\editors\class-vc-frontend-editor.php(635): Vc_Frontend_Editor->renderShortcodes(Array)
+#3 C:\xampp\htdocs\doan-wordpress\wp-includes\class-wp-hook.php(292): Vc_Frontend_Editor->loadShortcodes('')
+#4 C:\xampp\htdocs\doan-wordpress\wp-includes\class-wp-hook.php(316): WP_Hook->apply_filters(NULL, Array)
+#5 C:\xampp\htdocs\doan-wordpress\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#6 in C:\xampp\htdocs\doan-wordpress\wp-content\plugins\js_composer\include\classes\shortcodes\core\class-vc-shortcodes-manager.php on line 101
+
+2021-04-13T08:53:57+00:00 CRITICAL Uncaught Exception: Element must be mapped in system in C:\xampp\htdocs\doan-wordpress\wp-content\plugins\js_composer\include\classes\shortcodes\core\class-vc-shortcodes-manager.php:101
+Stack trace:
+#0 C:\xampp\htdocs\doan-wordpress\wp-content\plugins\js_composer\include\classes\shortcodes\core\class-vc-shortcodes-manager.php(135): Vc_Shortcodes_Manager->getElementClass('nm_banner')
+#1 C:\xampp\htdocs\doan-wordpress\wp-content\plugins\js_composer\include\classes\editors\class-vc-frontend-editor.php(704): Vc_Shortcodes_Manager->shortcodeClass()
+#2 C:\xampp\htdocs\doan-wordpress\wp-content\plugins\js_composer\include\classes\editors\class-vc-frontend-editor.php(635): Vc_Frontend_Editor->renderShortcodes(Array)
+#3 C:\xampp\htdocs\doan-wordpress\wp-includes\class-wp-hook.php(292): Vc_Frontend_Editor->loadShortcodes('')
+#4 C:\xampp\htdocs\doan-wordpress\wp-includes\class-wp-hook.php(316): WP_Hook->apply_filters(NULL, Array)
+#5 C:\xampp\htdocs\doan-wordpress\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#6 in C:\xampp\htdocs\doan-wordpress\wp-content\plugins\js_composer\include\classes\shortcodes\core\class-vc-shortcodes-manager.php on line 101
+
